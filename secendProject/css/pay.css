@@ -1,0 +1,10 @@
+#pay{
+    width: 1300px;
+    height: 500px;
+    background: #F2F2F2;
+    text-align: center;
+}
+#pay img{
+    margin: auto;
+    height: 480px;
+}
